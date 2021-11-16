@@ -1,0 +1,4 @@
+﻿  mpi.cpp
+D:\vs\mpi\mpi\mpi.cpp(284,24): warning C4101: i: неиспользованная локальная переменная
+D:\vs\mpi\mpi\mpi.cpp(356,18): warning C4101: i: неиспользованная локальная переменная
+  mpi.vcxproj -> D:\vs\mpi\Debug\mpi.exe
